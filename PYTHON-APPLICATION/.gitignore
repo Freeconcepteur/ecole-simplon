@@ -1,0 +1,8 @@
+calculatrice-app/.benchmarks
+calculatrice-app/.pytest_cache
+calculatrice-app/.venv
+calculatrice-app/components/__pycache__/*
+calculatrice-app/components/__init__.py
+calculatrice-app/components/test/*
+streamlit-app/.venv/*
+User-app/.venv/*
